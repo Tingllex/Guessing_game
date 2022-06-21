@@ -144,7 +144,7 @@
       <workItem from="1655558958404" duration="8382000" />
       <workItem from="1655594452217" duration="6706000" />
       <workItem from="1655633234945" duration="31881000" />
-      <workItem from="1655721564313" duration="39905000" />
+      <workItem from="1655721564313" duration="40166000" />
     </task>
     <servers />
   </component>
@@ -158,7 +158,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ZgadywanieLiczby@main.rcov" NAME="main Coverage Results" MODIFIED="1655570925888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />
-    <SUITE FILE_PATH="coverage/ZgadywanieLiczby@tk.rcov" NAME="Game Coverage Results" MODIFIED="1655772741745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />
+    <SUITE FILE_PATH="coverage/ZgadywanieLiczby@tk.rcov" NAME="Game Coverage Results" MODIFIED="1655772959379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />
     <SUITE FILE_PATH="coverage/ZgadywanieLiczby@TESTTST.rcov" NAME="TESTTST Coverage Results" MODIFIED="1655749171171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />
     <SUITE FILE_PATH="coverage/ZgadywanieLiczby@Scoreboard.rcov" NAME="Scoreboard Coverage Results" MODIFIED="1655728019154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />
     <SUITE FILE_PATH="coverage/ZgadywanieLiczby@Test.rcov" NAME="Test Coverage Results" MODIFIED="1655765623219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZgadywanieLiczby" />

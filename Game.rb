@@ -92,6 +92,7 @@ def reset
   $guess.value = ''
   $c3['state'] = :normal
   $c11['state'] = :disabled
+  $close.value = ''
 end
 
 def add_player
