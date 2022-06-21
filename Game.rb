@@ -41,23 +41,25 @@ $ld = Leaderboard.new
 $arr = Array.new
 
 def calculate
-  puts "#{$secret_num}" #print into terminal secret number
+  #puts "#{$secret_num}" #print into terminal secret number
   begin
     if $guess > 0 and $guess <= 1000
       $num_attempts.value = $num_attempts + 1
       check_num($guess)
     else
       $number.value = 'Try number in range (1...1000)'
+      $close.value = ''
     end
     rescue
       $number.value = 'Wrong input, try again!'
+      $close.value = ''
   end
 end
 
 def check_num(number)
   if number == $secret_num
     $number.value = 'YOU WIN'
-    $close.value = ''
+    $close.value = 'YOU ARE GENIUS'
     $c3['state'] = :disabled
     $c11['state'] = :normal
   elsif number < $secret_num
